@@ -1,5 +1,5 @@
 
-//c code for adding the digits of a no.
+//c code for armstrong no.
 
 #include<stdio.h>
 int main(){
